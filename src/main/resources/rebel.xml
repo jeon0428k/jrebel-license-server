@@ -9,7 +9,7 @@
 	<id>jrebel-license-server</id>
 
 	<classpath>
-		<dir name="/Users/alan/IdeaProjects/jrebel-license-server/target/classes">
+		<dir name="E:/workspace/jrebel-license-server/target/classes">
 		</dir>
 	</classpath>
 
